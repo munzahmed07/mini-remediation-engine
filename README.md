@@ -75,6 +75,7 @@ An AI-powered code analysis and bug-fixing tool that automatically detects bugs 
 # 🧪 Test Buggy Code
 
 This repository contains intentionally buggy Python code for testing the [Mini Remediation Engine](https://github.com/abraar-ahmed/mini-remediation-engine).
+You can use the test codes that are filled with bugs to test this Remediation Engine at [Test-Buggy-Code](https://github.com/abraar-ahmed/test-buggy-code).
 
 ## Purpose
 
@@ -99,4 +100,4 @@ Currently, the engine is optimized for **Python** code analysis and validation. 
 
 ## Created By
 
-Built with ❤️ using Groq AI and PyGithub
+Built by Abraar Ahmed
